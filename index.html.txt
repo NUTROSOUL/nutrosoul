@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Nutrosoul | Reversing Diabetes & Obesity</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background-color: #000;
+      color: #fff;
+    }
+    header {
+      background-color: #000;
+      padding: 20px;
+      text-align: center;
+    }
+    header h1 {
+      color: #FFD700;
+      margin: 0;
+    }
+    nav a {
+      margin: 0 10px;
+      color: #fff;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    section {
+      padding: 40px 20px;
+      max-width: 1000px;
+      margin: auto;
+    }
+    .highlight {
+      color: red;
+    }
+    .btn {
+      background-color: #FFD700;
+      color: #000;
+      padding: 10px 20px;
+      border: none;
+      cursor: pointer;
+      font-weight: bold;
+    }
+    footer {
+      text-align: center;
+      padding: 20px;
+      background-color: #111;
+      color: #888;
+    }
+    img.founder-photo {
+      max-width: 200px;
+      border-radius: 100px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Nutrosoul</h1>
+    <nav>
+      <a href="#about">About</a>
+      <a href="#programs">Programs</a>
+      <a href="#testimonials">Testimonials</a>
+      <a href="#youtube">YouTube</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <section>
+    <h2>Namaste 🙏</h2>
+    <p>Welcome to <span class="highlight">Nutrosoul</span> — where reversing <strong>diabetes and obesity</strong> is not just a goal, it’s a mission.</p>
+    <p>We offer personalized nutritional services specific to <strong>your body’s</strong> requirements. Because it isn’t <em>someBODY</em>, it's <strong>your body</strong>.</p>
+    <button class="btn">Schedule a Discovery Call</button>
+  </section>
+
+  <section id="about">
+    <h2>About Us</h2>
+    <img src="founder.jpg" alt="Founder" class="founder-photo">
+    <h3>Founder</h3>
+    <p>We are a passionate team of qualified <strong>doctors and dieticians</strong> helping individuals transform their lives through scientific and holistic methods. Our founder leads with heart and science combined.</p>
+  </section>
+
+  <section id="programs">
+    <h2>Our Programs</h2>
+    <ul>
+      <li><strong>Nutro Diet Clinic:</strong> Tailored diet programs to reverse lifestyle diseases.</li>
+      <li><strong>Fitness Coaching:</strong> Transform your body through structured movement.</li>
+      <li><strong>Internship Program:</strong> Learn from real cases with expert mentorship.</li>
+    </ul>
+  </section>
+
+  <section id="testimonials">
+    <h2>Testimonials</h2>
+    <p>“Nutrosoul helped me reverse my Type 2 Diabetes in just 6 months!” – A Happy Client</p>
+  </section>
+
+  <section id="youtube">
+    <h2>YouTube</h2>
+    <p>Follow us on YouTube: <a href="https://youtube.com/@nutrosoul?si=Btn2yWiIuI954xQx" target="_blank" style="color: yellow;">@nutrosoul</a></p>
+    <iframe width="100%" height="315" src="https://www.youtube.com/embed?listType=user_uploads&list=nutrosoul" frameborder="0" allowfullscreen></iframe>
+  </section>
+
+  <section>
+    <h2>Newsletter & Free Recipe Book</h2>
+    <form>
+      <input type="email" placeholder="Enter your email" required />
+      <button class="btn">Subscribe</button>
+    </form>
+  </section>
+
+  <section id="contact">
+    <h2>Contact Us</h2>
+    <p>Email: contact@nutrosoul.com</p>
+    <p>Phone: +91-XXXXXXXXXX</p>
+    <p>Location: Available for online consultations worldwide 🌍</p>
+  </section>
+
+  <footer>
+    <p>Follow @nutrosoul to be a healthier and happier you ❤️</p>
+    <p>&copy; 2025 Nutrosoul. All rights reserved.</p>
+  </footer>
+</body>
+</html>
